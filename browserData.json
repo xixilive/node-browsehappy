@@ -1,0 +1,52 @@
+[
+    {
+        "id": "chrome",
+        "name": "Google Chrome",
+        "longName": "Google Chrome",
+        "wikipedia": "Google_Chrome",
+        "normalized": 1,
+        "facebook": "googlechrome",
+        "url": "http://www.google.com/chrome",
+        "info": "&#8220;A fast new browser from Google. Try&nbsp;it&nbsp;now!&#8221;"
+    },
+    {
+        "id": "firefox",
+		"name": "Mozilla Firefox",
+		"longName": "Mozilla Firefox",
+		"wikipedia": "Firefox",
+		"normalized": 1.5,
+		"facebook": "Firefox",
+		"url": "http://www.firefox.com/",
+		"info": "&#8220;Your online security is Firefox's top priority. Firefox is free, and made to help you get the most out of the&nbsp;web.&#8221;"
+    },
+    {
+        "id": "safari",
+        "name": "Safari",
+        "longName": "Apple Safari",
+        "wikipedia": "Safari",
+        "normalized": 1.5,
+        "facebook": false,
+        "url": "http://www.apple.com/safari/",
+        "info": "&#8220;Safari for Mac and Windows from Apple, the world’s most innovative&nbsp;browser.&#8221;"
+    },
+    {
+    "id": "opera",
+        "name": "Opera",
+        "longName": "Opera",
+        "wikipedia": "Opera",
+        "normalized": 1.5,
+        "facebook": "Opera",
+        "url": "http://www.opera.com/",
+        "info": "&#8220;The fastest browser on Earth—secure, powerful and easy to use, with excellent privacy protection. And&nbsp;it&nbsp;is&nbsp;free.&#8221;"
+    },
+    {
+        "id": "ie",
+        "name": "Internet Explorer",
+        "longName": "Microsoft Internet Explorer",
+        "wikipedia": "Internet_Explorer",
+        "normalized": 1,
+        "facebook": "internetexplorer",
+        "url": "http://www.microsoft.com/windows/internet-explorer/",
+        "info": "&#8220;Designed to help you take control of your privacy and browse with confidence. Free from&nbsp;Microsoft.&#8221;"
+    }
+]

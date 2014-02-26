@@ -1,0 +1,12 @@
+{
+    "name": "browsehappy",
+    "description": "browsehappy port for NodeJS",
+    "version": "0.1.0",
+    "author": "Martin Zagora <zaggino@gmail.com>",
+    "main": "index.js",
+    "license": "MIT",
+    "dependencies": {
+        "bluebird": "1.0.x",
+        "request": "2.x"
+    }
+}
